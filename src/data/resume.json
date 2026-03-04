@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "VIPUL SINGH",
+    "title": "Senior Software Engineer",
+    "subtitle": "Golang | Python | GenAI | RAG | Backend Architecture",
+    "location": "Mumbai, Maharashtra, India",
+    "email": "letsmailvipul@gmail.com",
+    "phone": "+91-999999999",
+    "summary": "Senior Software Engineer with 8 years of experience building and scaling high-availability distributed systems and AI-native platforms in production. Strong expertise in backend architecture, Golang microservices, event-driven systems, and domain-driven design.",
+    "links": [
+      {"label": "LinkedIn", "url": "https://www.linkedin.com/in/vipul24/"},
+      {"label": "GitHub", "url": "https://github.com/vipulsingh24"},
+      {"label": "Blog", "url": "https://techblogmu.blogspot.com"}
+    ]
+  },
+  "metrics": [
+    {"value": "5Cr+", "label": "Annual Revenue Realized"},
+    {"value": "70%", "label": "Latency Reduction"},
+    {"value": "90%", "label": "Fulfillment Scaling"}
+  ],
+  "experience": [
+    {
+      "company": "Aspire FT India Pvt Ltd",
+      "role": "Senior Software Engineer",
+      "duration": "Dec 2024 – Present",
+      "bullets": [
+        "Led backend design of scalable SCA/2FA flows for card and payment operations, enabling fraud-driven verification and structured event logging.",
+        "Built a Go based Fraud Check microservice with rule-based compliance; reduced fraud incidents by 30% and lowered manual review effort.",
+        "Led development of an in-house GenAI RAG system using OpenAI LLMs and Qdrant to automate KYB decisioning from third-party business reports.",
+        "Migrated a latency-critical onboarding feature from a PHP monolith to a Golang microservice, isolated via DDD service boundary; improved performance by 65–70%."
+      ],
+      "stack": "Golang, PHP, Python, Postgres, Kafka, VectorDB"
+    },
+    {
+      "company": "ApnaTime Tech Pvt Ltd",
+      "role": "Senior Software Engineer",
+      "duration": "Jun 2023 – Dec 2024",
+      "bullets": [
+        "Designed and built enterprise dashboard; realized revenue of 5+ crores in a year and increased orders by 200%.",
+        "Automated key products (Smart HR/Tiger Eye) via event-driven Kafka pipelines, scaling job fulfillment by 90%.",
+        "Led restructuring of GoLang product service to a clean 3-layered architecture (handler, usecase, dataservice).",
+        "Refactored microservices architecture reducing network call overheads by 57%.",
+        "Acted as sprint lead, managing delivery timelines and mentoring engineers to uphold quality."
+      ],
+      "stack": "Golang, Python, Django, FastAPI, MongoDB, Kafka"
+    },
+    {
+      "company": "ApnaTime Tech Pvt Ltd",
+      "role": "Software Engineer – 2",
+      "duration": "Nov 2021 – May 2023",
+      "bullets": [
+        "Designed and deployed 6+ Golang-based monetization microservices using Pub/Sub architecture and service discovery.",
+        "Engineered enterprise-grade Google Sheets integration via asynchronous APIs; adopted by 500+ enterprises.",
+        "Built high-performance coupon microservice (10,000+ active coupons) with a custom Retool dashboard."
+      ],
+      "stack": "Golang, Python, Django, FastAPI, MongoDB, Kafka"
+    },
+    {
+      "company": "JioHaptik Technologies Ltd",
+      "role": "Software Engineer – 2",
+      "duration": "Apr 2021 – Nov 2021",
+      "bullets": [
+        "Scaled notification system to serve millions of daily users via asynchronous processing.",
+        "Integrated WhatsApp Business API for conversational commerce flows (Product List, Cart, Order) with Meta & Jio teams.",
+        "Contributed to secure and scalable designs as a member of Architecture & Infosec Champions team."
+      ],
+      "stack": "Python, Django, Postgres, RabbitMQ"
+    },
+    {
+      "company": "JioHaptik Technologies Ltd",
+      "role": "Software Engineer – 1",
+      "duration": "Jan 2020 – Mar 2021",
+      "bullets": [
+        "Developed and tested REST APIs using Django, reducing bugs by 16%.",
+        "Built reusable API workflow components and integrated external APIs like Jio Connector."
+      ],
+      "stack": "Python, Django, Postgres"
+    },
+    {
+      "company": "TimePay",
+      "role": "Software Engineer – 1",
+      "duration": "Jun 2018 – Jan 2020",
+      "bullets": [
+        "Led integrations with QuickBooks and Zoho to onboard clients with diverse accounting systems.",
+        "Designed reliable systems to generate client receivables from Tally, streamlining financial reporting."
+      ],
+      "stack": "Python, Tally Integration, QuickBooks, Zoho"
+    }
+  ],
+  "skills": [
+    { "category": "Programming", "items": ["Golang", "Python", "PHP", "NodeJS"] },
+    { "category": "AI & LLMs", "items": ["RAG", "AI Agents", "Agentic Workflows", "LangChain", "LangGraph", "Vector Databases", "Prompt Engineering"] },
+    { "category": "Cloud & Infra", "items": ["AWS (Lambda, EC2, S3, RDS)", "GCP", "Docker", "Apache Kafka", "Pub/Sub", "CI/CD"] },
+    { "category": "Databases", "items": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch", "VectorDB (Qdrant, FAISS)"] },
+    { "category": "Observability", "items": ["Datadog", "Sentry", "Grafana"] }
+  ],
+  "certifications": [
+    "Software Design and Architecture (University of Alberta)",
+    "Generative AI with Large Language Models (Coursera)",
+    "Introduction to Retrieval Augmented Generation (RAG)"
+  ],
+  "achievements": [
+    "Single-handedly built product from 0 to 1 at Apna, onboarding 500+ enterprises.",
+    "Jio Haptik Big Hand Award - Highest performing individual."
+  ]
+}
