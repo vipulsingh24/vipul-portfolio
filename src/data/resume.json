@@ -5,7 +5,6 @@
     "subtitle": "Golang | Python | GenAI | RAG | Backend Architecture",
     "location": "Mumbai, Maharashtra, India",
     "email": "letsmailvipul@gmail.com",
-    "phone": "+91-999999999",
     "summary": "Senior Software Engineer with 8 years of experience building and scaling high-availability distributed systems and AI-native platforms in production. Strong expertise in backend architecture, Golang microservices, event-driven systems, and domain-driven design.",
     "links": [
       {"label": "LinkedIn", "url": "https://www.linkedin.com/in/vipul24/"},
@@ -13,11 +12,6 @@
       {"label": "Blog", "url": "https://techblogmu.blogspot.com"}
     ]
   },
-  "metrics": [
-    {"value": "5Cr+", "label": "Annual Revenue Realized"},
-    {"value": "70%", "label": "Latency Reduction"},
-    {"value": "90%", "label": "Fulfillment Scaling"}
-  ],
   "experience": [
     {
       "company": "Aspire FT India Pvt Ltd",

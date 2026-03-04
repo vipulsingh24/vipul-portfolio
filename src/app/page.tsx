@@ -35,7 +35,7 @@ export default function PortfolioPage() {
               </div>
             </nav>
 
-            <Hero data={resumeData.basics} metrics={resumeData.metrics} />
+            <Hero data={resumeData.basics} />
 
             <section id="experience" className="container mx-auto px-6 py-24">
               <h2 className="text-4xl md:text-6xl font-bold mb-16">PROVEN <br/><span className="text-blue-500">EXPERIENCE</span></h2>
